@@ -11,16 +11,35 @@ All cases were solved using my own OpenFOAM setups and scripts, and serve as **v
 
 
 ### Dambreaking
-<!-- [![Dambreaking](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_/hqdefault.jpg)](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_) -->
 
-<iframe width="560" height="315"
-src="https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_" 
+<!-- Example:
+<iframe 
+width="600" height="360" 
+src="https://www.youtube.com/embed/VIDEO_ID" 
 frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe> -->
+
+<iframe 
+width="600" height="360" 
+src="https://www.youtube.com/embed/6vGnFBioc6A" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
+
 
 ### Regular wave
 
+<iframe 
+width="600" height="360" 
+src="https://www.youtube.com/embed/C24xO0hJZsg" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
 
 > 🔧 All simulations were computed using OpenFOAM v12.0 on Linux.
 
