@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 💻 My Own OpenFOAM Demo Results
 
 This repository showcases selected **CFD simulation results** generated using **OpenFOAM**. The demos include a variety of fluid dynamics cases I previously computed, and the results are visualized as videos for easier sharing and reference.
@@ -30,3 +31,7 @@ All cases were solved using my own OpenFOAM setups and scripts, and serve as **v
 
 ---
 
+=======
+# OpenFOAM-Git
+My own OpenFOAM demo results
+>>>>>>> 52fb31fde25315e8676a125ee2f2e374134c9d31
