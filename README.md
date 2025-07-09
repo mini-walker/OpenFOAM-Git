@@ -11,8 +11,13 @@ All cases were solved using my own OpenFOAM setups and scripts, and serve as **v
 
 
 ### Dambreaking
-[![Dambreaking](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_/0.jpg)](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_)
+<!-- [![Dambreaking](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_/hqdefault.jpg)](https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_) -->
 
+<iframe width="560" height="315"
+src="https://youtu.be/6vGnFBioc6A?si=erBv1UFqkvLqayD_" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ### Regular wave
 
