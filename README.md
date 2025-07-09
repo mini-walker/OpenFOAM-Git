@@ -12,46 +12,36 @@ All cases were solved using my own OpenFOAM setups and scripts, and serve as **v
 
 ### Dambreaking
 
-<!-- Example:
-<iframe 
-width="600" height="360" 
-src="https://www.youtube.com/embed/VIDEO_ID" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe> -->
+<!-- Add youtube link -->
+<!-- Example: -->
+<!-- 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Your_Video_ID">
+    <img src="https://img.youtube.com/vi/Your_Video_ID/maxresdefault.jpg" alt="Dambreaking" width="800">
+  </a>
+</p> 
+-->
 
 
-<!-- <iframe 
-width="600" height="360" 
-src="https://www.youtube.com/embed/6vGnFBioc6A" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe> -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6vGnFBioc6A">
+    <img src="https://img.youtube.com/vi/6vGnFBioc6A/maxresdefault.jpg" alt="Dambreaking" width="800">
+  </a>
+</p>
 
 
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=6vGnFBioc6A">
-     <img 
-      src="https://img.youtube.com/vi/6vGnFBioc6A/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
-
-<!-- [![](https://img.youtube.com/vi/6vGnFBioc6A/0.jpg)](https://www.youtube.com/watch?v=6vGnFBioc6A) -->
 
 
-### Regular wave
+### Regular waves
 
-<!-- <iframe 
-width="600" height="360" 
-src="https://www.youtube.com/embed/C24xO0hJZsg" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe> -->
+<!-- Add youtube link -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=C24xO0hJZsg">
+    <img src="https://img.youtube.com/vi/C24xO0hJZsg/maxresdefault.jpg" alt="Dambreaking" width="800">
+  </a>
+</p>
+
+
 
 > 🔧 All simulations were computed using OpenFOAM v12.0 on Linux.
 
